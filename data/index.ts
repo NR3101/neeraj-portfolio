@@ -86,7 +86,7 @@ export const projects = [
     des: "A portfolio website built with Next.js,Tailwind CSS,TypeScript and Framer Motion.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/NR3101",
+    link: "https://neeraj-rai-portfolio.vercel.app/",
   },
   {
     id: 2,
