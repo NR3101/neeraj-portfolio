@@ -65,6 +65,7 @@ export const FloatingNav = ({
         )}
       >
         {navItems.map((navItem: Navitem, idx: number) => {
+          //@ts-ignore
           const IconComponent = icons[navItem.icon];
 
           return (
